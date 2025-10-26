@@ -1,5 +1,7 @@
-Open the Homework1.ipynb in Google colab
+Open the Homework2.py in a python Interpreter
 
-In Cell Simulation Loop/Main Simulation Loop Line 5, select implicit/explicit method
+Use the command python Homework2.py 
 
-Then click run all to run simulation. The visualization results will show in output.
+Or click start in an IDE such as pycharm
+
+Python Version: 3.12, Requirements: Numpy, Matplotlib
